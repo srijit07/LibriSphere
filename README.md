@@ -4,6 +4,12 @@ A virtual AR library where an user can experience and see a 3D model of any obje
 
 Tech Stack: Unity-AR foundation, AR-Core, AR-Kit, C#
 
+
+
+https://github.com/user-attachments/assets/b99187a4-e7e0-4f5f-9665-695ca36d5d47
+
+
+
 ## Purpose
 
 Our main goal behind this project was to enhance a better understanding of real world objects which will help people from different fields of study to gain an in-depth knowledge of an image that they do not have access to in the real world. This can be a very useful tool especially for STEM students wo can have a clear understanding of different core concepts in the subjects of Physics, Chemistry, Mathematics, Computer Science, Electronics, Civil, and many more.
