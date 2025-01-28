@@ -16,7 +16,7 @@ Our main goal behind this project was to enhance a better understanding of real 
 
 ## Support
 
-As of now, this application is only available only for android.
+As of now, this application is only available for android.
 
 ## Limitations
 
