@@ -2,7 +2,7 @@
 
 A virtual AR library where an user can experience and see a 3D model of any object by scanning any image of the object from the internet. The model will hover in front of the user in augmented reality, which will allow the user to get to see details of the object in depth for a better understanding. 
 
-Tech Stack: Unity-AR foundation, AR-Core, AR-Kit, C#
+**Tech Stack**: *Unity-AR foundation*, *AR-Core*, *AR-Kit*, *C#*
 
 
 
@@ -20,15 +20,13 @@ As of now, this application is only available for android.
 
 ## Limitations
 
-Since the 3D models take a large chunk of space inside the application itself, as of now, we have incorporated only a few a models for initial release. 
+Since the 3D models take a large chunk of space inside the application itself, as of now, we have incorporated only a few models for initial release. 
 
 Our aim is to use the entire internet as a big database for our model extraction and relay them into the application.
 
 ## Installation
 
 You can download the application for android from [here](https://drive.google.com/drive/folders/13lWxHYGE0sKEg0MDZu23erHK9eV4HKvK?usp=sharing). 
-
-
 
 ## Contributers
 
